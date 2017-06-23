@@ -1,0 +1,9 @@
+Building AcornCoin
+
+See doc/readme-qt.rst for instructions on building AcornCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AcornCoin.
+
+See doc/build-*.txt for instructions on building acorncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AcornCoin.
